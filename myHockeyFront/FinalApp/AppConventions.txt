@@ -1,0 +1,5 @@
+1) All assets have to start with capital letter
+2) Odds are set when the game is entered to the DB and cannot be changed
+3) Min odds are 1.00 maximum is 9.00
+4) There's only one game at any one day
+
